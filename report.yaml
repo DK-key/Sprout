@@ -12,13 +12,13 @@ team:
 
   roster:
     - name: Anish Kumar
-      email: TEAM MEMBER 1 EMAIL
+      email: ak2399@cornell.edu
       picture: Anish.jpg
     - name: Renran Zhou
-      email: TEAM MEMBER 2 EMAIL
+      email: rz348@cornell.edu
       picture: Renran.jpg
     - name: Haoxin Guo
-      email: TEAM MEMBER 3 EMAIL
+      email: hg428@cornell.edu
       picture: Haoxin.jpg
 
 assets:
