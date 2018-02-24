@@ -13,13 +13,13 @@ team:
   roster:
     - name: Anish Kumar
       email: ak2399@cornell.edu
-      picture: Anish.jpg
+      picture: Anish.png
     - name: Renran Zhou
       email: rz348@cornell.edu
       picture: Renran.jpg
     - name: Haoxin Guo
       email: hg428@cornell.edu
-      picture: Haoxin.jpg
+      picture: Haoxin.JPG
 
 assets:
 - title: Sprint 1
